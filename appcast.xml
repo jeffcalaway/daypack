@@ -6,6 +6,18 @@
         <description>Daypack updates</description>
         <language>en</language>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Mon, 02 Nov 2026 08:50:45 -0600</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/jeffcalaway/daypack/releases/tag/v1.0.1</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/jeffcalaway/daypack/releases/download/v1.0.1/Daypack-1.0.1.dmg" length="22557909" type="application/octet-stream" sparkle:edSignature="5gAdMegH4JnREJEFIA4orJx+nxGvF57KpE2BcCjvgzt+JPb5ZZbRyN8mij5+ZmUreEvr4BBGMhCy/iRJGexZDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jeffcalaway/daypack/releases/download/v1.0.1/Daypack2-1.delta" sparkle:deltaFrom="1" length="2658846" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0AhYQj/zBeEFkfN9AngrcMS81Y9SGU2pUMCel92YXLV6ncNIhYLWSBGyxaAStKpAs0W0EglRbQpINpldFKIdBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Sun, 01 Nov 2026 21:20:56 -0600</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/jeffcalaway/daypack/releases/tag/v1.0.0</sparkle:fullReleaseNotesLink>

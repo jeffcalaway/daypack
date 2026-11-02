@@ -199,6 +199,8 @@ automatically), per feature and per project.
 - **Clean up whenever you like**: saved AI results expire after 90 days by
   default, and you can clear them, or delete everything, with one click.
 - Basecamp sign-ins and AI keys live in your Mac's Keychain.
+- **A diagnostics log stays on your Mac** for 14 days, with secrets and contact
+  details blanked out. It's sent only if you choose to send it.
 
 ---
 
@@ -233,6 +235,18 @@ Daypack checks for updates once a day. When one is ready, an **orange dot**
 appears on the backpack in the menu bar; right-click it and choose **Install
 Update…**. Turn on **Update Automatically** in the same menu to have updates
 download on their own and install the next time you quit.
+
+### Something not working?
+
+Choose **Help → Email Diagnostics to Support…**. Daypack opens a new email to
+the developer with a diagnostics report attached; say what happened and press
+Send. **Settings → Diagnostics** shows the log itself, and can copy, save or
+share the report instead.
+
+The report says what Daypack was doing (syncs, sign-ins, AI requests, errors)
+using IDs, counts and timings. It leaves out ticket descriptions, comments,
+notes and AI answers, blanks out passwords, keys, email addresses and phone
+numbers, and stays on your Mac until you send it.
 
 ## Requirements
 
