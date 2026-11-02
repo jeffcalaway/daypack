@@ -190,8 +190,9 @@ automatically), per feature and per project.
 - **Your data stays on your Mac**, in an encrypted database, inside an app
   sandboxed by macOS. No accounts, no telemetry, no analytics.
 - **AI sees only what one request needs**, sent only to the AI you chose.
-  Passwords, keys, card numbers and similar are removed first, and people are
-  named by first name at most.
+  Passwords, keys, card numbers and similar are removed first, and AI never
+  sees anyone's name: people are "the requester", "Person A" and so on, and
+  Daypack shows you their real names.
 - **Mark anything "never send to AI"**: a whole project, a ticket, a comment, a
   file, or words like a client's name, wherever they appear.
 - **Ask before sending**: a confidential project can require your OK before
