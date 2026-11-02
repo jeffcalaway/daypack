@@ -270,6 +270,14 @@ way, you can cap how many AI requests Daypack makes each day.
 **Light or dark?**
 Both. Daypack follows your Mac, or you can pick one in Settings → General.
 
+## License
+
+Daypack is free to use, including professionally, under the [Daypack
+Proprietary Freeware License](LICENSE.md). Third-party components are listed in
+[THIRD_PARTY_NOTICES.txt](THIRD_PARTY_NOTICES.txt). Basecamp is a trademark of
+37signals. Daypack is not affiliated with 37signals, Anthropic, OpenAI, Google,
+OpenRouter, Ollama, LM Studio, or GitHub.
+
 ---
 
 This repository hosts Daypack's releases and update feed (`appcast.xml`). The
