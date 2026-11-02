@@ -1,9 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>Daypack</title>
-    <link>https://raw.githubusercontent.com/jeffcalaway/daypack/HEAD/appcast.xml</link>
-    <description>Daypack updates</description>
-    <language>en</language>
-  </channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Daypack</title>
+        <link>https://raw.githubusercontent.com/jeffcalaway/daypack/HEAD/appcast.xml</link>
+        <description>Daypack updates</description>
+        <language>en</language>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Sun, 01 Nov 2026 21:20:56 -0600</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/jeffcalaway/daypack/releases/tag/v1.0.0</sparkle:fullReleaseNotesLink>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/jeffcalaway/daypack/releases/download/v1.0.0/Daypack-1.0.0.dmg" length="22383657" type="application/octet-stream" sparkle:edSignature="Wi+lsk4w3PZGXg8KTZeK507RYTP6X2FqxclxYzwY2hq8SF+VNIfaKqM/cO8qSio+r4rYyXFD+c1Afuye7+nWCg=="/>
+        </item>
+    </channel>
 </rss>

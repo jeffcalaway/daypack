@@ -1,6 +1,4 @@
-# Daypack
-
-**Your Basecamp assignments, understood and planned.**
+![Daypack: your calm companion for Basecamp work. Organize your day, translate complex tickets, and prioritize with less stress.](banner.webp)
 
 Daypack is a native Mac app for people who get their work from Basecamp. Every
 morning it gathers what's assigned to you, explains each ticket in plain
@@ -10,7 +8,7 @@ move cards, chat with your team) without living in a browser tab.
 
 ![Today in Daypack: a greeting, what to do right now, and what needs you](screenshots/today.png)
 
-**[Download the latest version](https://github.com/jeffcalaway/daypack/releases/latest)**
+**[Download Daypack for Mac](https://github.com/jeffcalaway/daypack/releases/latest)**
 · macOS 15 Sequoia or later · Works with any Basecamp account
 
 <sub>Every screenshot here uses made-up sample data. You can explore the same
@@ -206,15 +204,35 @@ automatically), per feature and per project.
 
 ## Getting started
 
-1. [Download Daypack](https://github.com/jeffcalaway/daypack/releases/latest),
-   unzip it and move **Daypack.app** to your Applications folder.
-2. Open it and choose **Sign In with Basecamp**, or **Explore with sample data
-   first** to look around with made-up data.
-3. Pick which projects belong on your plan, set your working hours, and choose
+1. From the [latest release](https://github.com/jeffcalaway/daypack/releases/latest),
+   download **Daypack-x.y.z.dmg** (under *Assets*).
+2. Open the DMG and drag **Daypack** into your **Applications** folder.
+3. Open Daypack from Applications. The first time, macOS asks you to confirm
+   (see [below](#opening-daypack-the-first-time)).
+4. Choose **Sign In with Basecamp**, or **Explore with sample data first** to
+   look around with made-up data.
+5. Pick which projects belong on your plan, set your working hours, and choose
    an AI (or none). It takes a few minutes, and you can change everything later.
 
-Daypack keeps itself up to date. Right-click the backpack in the menu bar for
-**Check for Updates…** and **Update Automatically**.
+### Opening Daypack the first time
+
+Daypack isn't notarized by Apple yet, so the first time you open it macOS says
+it can't check Daypack for malicious software. To open it anyway:
+
+1. Open Daypack once and click **Done** on the warning.
+2. Open **System Settings → Privacy & Security** and scroll down to
+   *Security*.
+3. Next to "Daypack was blocked to protect your Mac", click **Open Anyway**,
+   then confirm with your password or Touch ID.
+
+You only do this once. Updates open normally.
+
+### Staying up to date
+
+Daypack checks for updates once a day. When one is ready, an **orange dot**
+appears on the backpack in the menu bar; right-click it and choose **Install
+Update…**. Turn on **Update Automatically** in the same menu to have updates
+download on their own and install the next time you quit.
 
 ## Requirements
 
