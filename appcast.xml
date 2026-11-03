@@ -6,6 +6,22 @@
         <description>Daypack updates</description>
         <language>en</language>
         <item>
+            <title>1.0.15</title>
+            <pubDate>Tue, 03 Nov 2026 16:08:36 -0600</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/jeffcalaway/daypack/releases/tag/v1.0.15</sparkle:fullReleaseNotesLink>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.0.15</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/jeffcalaway/daypack/releases/download/v1.0.15/Daypack-1.0.15.dmg" length="24700150" type="application/octet-stream" sparkle:edSignature="nkE0Yc4HK4csvqnfxfhP41CHG6uFSLM1/RQP1j5uZdKb+pVSRvFOZRCNDDxCgwjv8vFIVIElR0bhccisfXMLAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jeffcalaway/daypack/releases/download/v1.0.15/Daypack16-15.delta" sparkle:deltaFrom="15" length="2703038" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZjeMyRiWdtsGGHAfVpkRH+MgNRAlLjr+JMsbF0YtBG9PImruah+wPLf118ow7zWw7BeYbd8AVyrrUwkU2jDfAA=="/>
+                <enclosure url="https://github.com/jeffcalaway/daypack/releases/download/v1.0.15/Daypack16-14.delta" sparkle:deltaFrom="14" length="2674446" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nYishKYLiD4cq/kyRylYMVvorUBXO1HI/4tiyXwLMNKPNSAjD5WOQNZDENLm+KFqkY+8bKMioEzZHc6nYPctBw=="/>
+                <enclosure url="https://github.com/jeffcalaway/daypack/releases/download/v1.0.15/Daypack16-13.delta" sparkle:deltaFrom="13" length="3283734" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iw3ZMRGoV36pu9Tc8l84i1a2jPXXbXkhVuYNHU6XZAr5VLhXEf/2fRY9BFXPbpv6YKMvfSaD7oCo5MrtUZsDAw=="/>
+                <enclosure url="https://github.com/jeffcalaway/daypack/releases/download/v1.0.15/Daypack16-12.delta" sparkle:deltaFrom="12" length="3280978" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3Po7Fo/MeZ1R6CBu/Od/XHjKDsNdpXvB0yqSdPbDoyD40YWV8Mx/FLiZU2/6MySE/bwgE2o9TjmPNvcNpTZRDA=="/>
+                <enclosure url="https://github.com/jeffcalaway/daypack/releases/download/v1.0.15/Daypack16-11.delta" sparkle:deltaFrom="11" length="3912186" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yA2wYf2dsWtZ+jUjfsdYnkPLT6aNeabr6StE04QucsPBCa/vyBElq45K+B+CkoJgLVF0nxCYmcZ78AYF2BFNAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.14</title>
             <pubDate>Tue, 03 Nov 2026 15:37:30 -0600</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/jeffcalaway/daypack/releases/tag/v1.0.14</sparkle:fullReleaseNotesLink>
@@ -35,22 +51,6 @@
                 <enclosure url="https://github.com/jeffcalaway/daypack/releases/download/v1.0.13/Daypack14-11.delta" sparkle:deltaFrom="11" length="3744194" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="aFpwBZCRLzb5u8ZQspsSdeP4uAtnnJRto+Ug3dl5VyFwYwkEMx8NlKEZgjewzCdfqgaoJfoxpCZhpJvCyOfwCw=="/>
                 <enclosure url="https://github.com/jeffcalaway/daypack/releases/download/v1.0.13/Daypack14-10.delta" sparkle:deltaFrom="10" length="3763002" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KeifjaUx9phLDohK7Oewokha1PKr8dU32K1FYDWCcyutJGl3ZfdkSOi6qfF2UQEfF8GQonwc7S895SJJswt4Dw=="/>
                 <enclosure url="https://github.com/jeffcalaway/daypack/releases/download/v1.0.13/Daypack14-9.delta" sparkle:deltaFrom="9" length="3767970" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="aMwhnYnF3BNbYxU1gr/JwH95Ppxx6+/QC0TZFLowUM3JFQUmxiUOt+c0Fjs0c9g9kloPnzFVON+pq7izXRVPAw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.12</title>
-            <pubDate>Tue, 03 Nov 2026 13:03:53 -0600</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/jeffcalaway/daypack/releases/tag/v1.0.12</sparkle:fullReleaseNotesLink>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>1.0.12</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/jeffcalaway/daypack/releases/download/v1.0.12/Daypack-1.0.12.dmg" length="24413154" type="application/octet-stream" sparkle:edSignature="BGpRfOJVWdxnfdy1Sg84Hmt3RKngpJduotvkHqPAWAKhB9iFkHfxUF9IoTT3+HanaWLY8TWMHyMWpdMWqM9UDg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/jeffcalaway/daypack/releases/download/v1.0.12/Daypack13-12.delta" sparkle:deltaFrom="12" length="2128222" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Iz5fwKlUjpxHq4xDInMA9bHEpmlOmOP/dcTNnXrqkHHMmCfaLyK69YqlMZw+pH6kx4pycfT5PQV7IQjg2AtpBw=="/>
-                <enclosure url="https://github.com/jeffcalaway/daypack/releases/download/v1.0.12/Daypack13-11.delta" sparkle:deltaFrom="11" length="3260390" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TPkaJy3gqXg020n5IbFeuzv13cj+/GdRuhBeSSV2zlBIdoqvoAeOOuH+4y+nYZ19xJm00rxoP6KIp7jcvIIFBA=="/>
-                <enclosure url="https://github.com/jeffcalaway/daypack/releases/download/v1.0.12/Daypack13-10.delta" sparkle:deltaFrom="10" length="3279538" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="h/0m08y5M7/J+upl6mRVxKq+oYNAZZLcZW1+lvCe7aYJsRif1hJF+QFR23U9EC4CwgvHSqv73POhaK2/fUAmAg=="/>
-                <enclosure url="https://github.com/jeffcalaway/daypack/releases/download/v1.0.12/Daypack13-9.delta" sparkle:deltaFrom="9" length="3294478" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jAFZciWlFxG36PnEuwCo7rWFclkvpDu0q8ACRTuUrP0f+SoOsl4OtVGzj1C3A6Rzo4+0pnyx7q6IzbCnjxGbCw=="/>
-                <enclosure url="https://github.com/jeffcalaway/daypack/releases/download/v1.0.12/Daypack13-8.delta" sparkle:deltaFrom="8" length="3356502" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="27sJM466tShURIv700GLn7PqpGyBVXxxV3eaK4UvPOS2jH362GuZuu1AE9ZDGSRHqoC86V5UNX7GN974/eKjAA=="/>
             </sparkle:deltas>
         </item>
     </channel>
